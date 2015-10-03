@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/ruby_for_good/notes_rgood.txt",
+			"settings":
+			{
+				"buffer_size": 15399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# EXERCISE 2.5\nputs 24 * 365\nputs 24 * 356 * 60 * 10\nputs (24 * 60 * 60) * (365 * 30 + 180)\n\nputs (1160 * 1000000 / ( 365 * 24 * 60 * 60)).to_s + ' ye'\n\nputs '2' * 5  kinda cool\nvar = 5\nputs var.to_s + '2'\nx = 'You\\'re swell'\nputs x + '\\\\'\nputs '13.13 is a lucky room'.to_f\n\n\n\n\n\n",
+			"file": "/C/row/dev/ruby-sandpit/calc.rb",
+			"file_size": 293,
+			"file_write_time": 130883172168015013,
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/row/dev/ruby-sandpit/README.md",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/N/Media/Videos/Educational/IT/Ruby/Tealeaf_Courses/Course1_Ruby_Sinatra/Ruby_Course_Outline.txt",
+			"settings":
+			{
+				"buffer_size": 30105,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tallen/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/row/dev/rails-sandpit/README.md",
+		"/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/TomRuby.txt",
+		"/C/row/dev/rails_sandpit/README.md",
+		"/N/Documents/Tom/Intellectual/InformationTechnology/Development/Ruby/TomRuby.txt",
+		"/C/row/dev/hello_rails/app/models/calc.rb",
+		"/C/Users/tallen/training/ruby_for_good/notes_rgood.txt",
+		"/C/Users/tallen/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/tallen/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/row/dev/hello_world/app/models/calc.rb",
+		"/C/Users/tallen/Desktop/upgrade_todo.txt",
+		"/C/row/dev/AllIncomeFoods/README.md",
+		"/C/row/dev/AllIncomeFoods/config/database.yml",
+		"/C/row/dev/AllIncomeFoods/Gemfile",
+		"/C/row/row.bat",
+		"/C/row/dev/AllIncomeFoods/.gitignore",
+		"/C/row/dev/hello_world/config.ru",
+		"/C/Users/tallen/rgood/test/blog_test.rb",
+		"/C/Users/tallen/rgood/test/blog.rb",
+		"/C/Users/tallen/rgood/AllIncomeFoods/README.md",
+		"/C/Users/tallen/Desktop/wireless.txt",
+		"/C/Users/tallen/code/physr/util/install.r",
+		"/C/Users/tallen/Desktop/blue_screens.txt",
+		"/H/README.txt",
+		"/C/Users/tallen/IT_Training/R_setup.txt",
+		"/C/Users/tallen/IT_Training/util/install.r",
+		"/C/OpenDataDay/R_to_d3_example.R",
+		"/C/OpenDataDay/flare.json",
+		"/C/Users/tallen/4_Documents_Tom_Int/Data_Analysis/R_Scripts/discreteTests.R",
+		"/C/Users/tallen/4_Documents_Tom_Int/Data_Analysis/R_Scripts/graphics.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme_824142/dev/src/non_employees.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme_824142/dev/src/fun.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme_824142/dev/src/association_discovery.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme_824142/dev/src/security_analysis.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme_824142/dev/src/param.R",
+		"/C/Users/tallen/4_Documents_Tom_Int/Data_Analysis/R_Scripts/existing_security.r",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme/dev/src/security_analysis.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme/dev/src/install.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme/dev/src/fun.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme/dev/src/param.R",
+		"/C/Users/tallen/5_Contracting/The_University_Of_Auckland/Access_Management_Programme/dev/src/association_discovery.R",
+		"/C/Users/tallen/4_Documents_Tom_Int/Data_Analysis/R_Scripts/accessRights.r",
+		"/C/Users/tallen/4_Documents_Tom_Int/Data_Analysis/Examples/ClassPred/ClinMolExpBC/clinMolExpBC2.R"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"# ",
+			"indent",
+			"puts",
+			"version",
+			"git",
+			", ",
+			"\n",
+			"c1",
+			"interest_vars[j]",
+			"interest_vars[i]",
+			"m3",
+			"m2",
+			"m1",
+			"test",
+			"grp_rem",
+			"lmat",
+			"repos=\"http://cran.us.r-project.org\"",
+			"colors",
+			"heatmap.2",
+			"heatmap",
+			"write",
+			"Heatmap",
+			"chisq",
+			"l1",
+			"reshape2",
+			"Dist"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"install.packages(",
+			"var",
+			"c2",
+			"c1",
+			"m2",
+			"m1",
+			"emat",
+			"repos=repo",
+			"l2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/ruby_for_good/notes_rgood.txt",
+					"settings":
+					{
+						"buffer_size": 15399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/row/dev/ruby-sandpit/calc.rb",
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/row/dev/ruby-sandpit/README.md",
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/N/Media/Videos/Educational/IT/Ruby/Tealeaf_Courses/Course1_Ruby_Sinatra/Ruby_Course_Outline.txt",
+					"settings":
+					{
+						"buffer_size": 30105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5599,
+								5599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2175.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.57593220339,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}

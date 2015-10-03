@@ -1,5 +1,5 @@
-# rails_sandpit
-Experimenting with Ruby and Rails
+# rails-sandpit
+Experimenting with Rails library of Ruby
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
