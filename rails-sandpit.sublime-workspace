@@ -7,49 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/ruby_for_good/notes_rgood.txt",
-			"settings":
-			{
-				"buffer_size": 15399,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "# EXERCISE 2.5\nputs 24 * 365\nputs 24 * 356 * 60 * 10\nputs (24 * 60 * 60) * (365 * 30 + 180)\n\nputs (1160 * 1000000 / ( 365 * 24 * 60 * 60)).to_s + ' ye'\n\nputs '2' * 5  kinda cool\nvar = 5\nputs var.to_s + '2'\nx = 'You\\'re swell'\nputs x + '\\\\'\nputs '13.13 is a lucky room'.to_f\n\n\n\n\n\n",
-			"file": "/C/row/dev/ruby-sandpit/calc.rb",
-			"file_size": 293,
-			"file_write_time": 130883172168015013,
-			"settings":
-			{
-				"buffer_size": 279,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/row/dev/ruby-sandpit/README.md",
-			"settings":
-			{
-				"buffer_size": 38,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 525,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/N/Media/Videos/Educational/IT/Ruby/Tealeaf_Courses/Course1_Ruby_Sinatra/Ruby_Course_Outline.txt",
-			"settings":
-			{
-				"buffer_size": 30105,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -75,8 +32,12 @@
 	},
 	"file_history":
 	[
-		"/C/Users/tallen/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/N/Media/Videos/Educational/IT/Ruby/Tealeaf_Courses/Course1_Ruby_Sinatra/Ruby_Course_Outline.txt",
+		"/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/ruby_for_good/notes_rgood.txt",
+		"/C/row/dev/ruby-sandpit/calc.rb",
+		"/C/row/dev/ruby-sandpit/README.md",
 		"/C/row/dev/rails-sandpit/README.md",
+		"/C/Users/tallen/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/TomRuby.txt",
 		"/C/row/dev/rails_sandpit/README.md",
 		"/N/Documents/Tom/Intellectual/InformationTechnology/Development/Ruby/TomRuby.txt",
@@ -188,147 +149,13 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/N/Documents/Tom/Intellectual/Information_Technology/Development/Ruby/ruby_for_good/notes_rgood.txt",
-					"settings":
-					{
-						"buffer_size": 15399,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								151,
-								151
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/row/dev/ruby-sandpit/calc.rb",
-					"settings":
-					{
-						"buffer_size": 279,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								275,
-								275
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/row/dev/ruby-sandpit/README.md",
-					"settings":
-					{
-						"buffer_size": 38,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 525,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 4,
-					"file": "/N/Media/Videos/Educational/IT/Ruby/Tealeaf_Courses/Course1_Ruby_Sinatra/Ruby_Course_Outline.txt",
-					"settings":
-					{
-						"buffer_size": 30105,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5599,
-								5599
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2175.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
